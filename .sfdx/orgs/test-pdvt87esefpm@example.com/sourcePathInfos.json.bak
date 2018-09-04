@@ -1,0 +1,737 @@
+[
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220804,
+            "changeTime": 1536046220804,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220805,
+            "changeTime": 1536046220805,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220946,
+            "changeTime": 1536046220946,
+            "contentHash": "2709e4d0ee1724731986e8817b56358eb81097c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\globalValueSets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220808,
+            "changeTime": 1536046220808,
+            "contentHash": "5af721bc7d86450d86888a39287811e536844e88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\globalValueSets\\Asset_Class.globalValueSet-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\globalValueSets\\Asset_Class.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1220,
+            "modifiedTime": 1536046220808,
+            "changeTime": 1536046220808,
+            "contentHash": "a672b20c8369d4315efb9e1fed35a01b7186fe2b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220827,
+            "changeTime": 1536046220827,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9903,
+            "modifiedTime": 1536046220811,
+            "changeTime": 1536046220811,
+            "contentHash": "717ec3de262439de11e37bc4b92e0aec6552033c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9853,
+            "modifiedTime": 1536046220813,
+            "changeTime": 1536046220813,
+            "contentHash": "5a21f6b152a7b5d7046b531ce014bd5d048c3627",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9903,
+            "modifiedTime": 1536046220825,
+            "changeTime": 1536046220825,
+            "contentHash": "60de1ef025e547792c39e8f6a3ef848a6aa6b6a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9853,
+            "modifiedTime": 1536046220828,
+            "changeTime": 1536046220828,
+            "contentHash": "27fa830d605d5a17f69e5f4636c5fd42fda505fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220932,
+            "changeTime": 1536046220932,
+            "contentHash": "96073884f36956fbd43518f9e785a306c3429c51",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220831,
+            "changeTime": 1536046220831,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220832,
+            "changeTime": 1536046220832,
+            "contentHash": "51d9df79d2187cb8b27c139ffa28fa216033d484",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Account\\fields\\Secondproject__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Account\\fields\\Secondproject__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 389,
+            "modifiedTime": 1536046220832,
+            "changeTime": 1536046220832,
+            "contentHash": "a2f71d3f6beb0dbf2c07da3e95e88c6de1049713",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220837,
+            "changeTime": 1536046220837,
+            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2216,
+            "modifiedTime": 1536046220835,
+            "changeTime": 1536046220835,
+            "contentHash": "c1161392ffda5e3e291cbb1e3fcbd75e58211c82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220864,
+            "changeTime": 1536046220864,
+            "contentHash": "36e0f8ce8d3855ac18e6a491d7d01518f3bb1ae3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 438,
+            "modifiedTime": 1536046220838,
+            "changeTime": 1536046220838,
+            "contentHash": "ea26f612d3a5c83abd0bfb11b153225f51699461",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 408,
+            "modifiedTime": 1536046220840,
+            "changeTime": 1536046220840,
+            "contentHash": "345f4467235ee58c778acd5787064ad6e49dd0ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 351,
+            "modifiedTime": 1536046220863,
+            "changeTime": 1536046220863,
+            "contentHash": "dfc096d59a1cd6ea21feb5da56aa95ae97aa36a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 375,
+            "modifiedTime": 1536046220865,
+            "changeTime": 1536046220865,
+            "contentHash": "3805c70efc4d4d6fe4a914a1746f3ba4a2469daa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220928,
+            "changeTime": 1536046220928,
+            "contentHash": "ed20baa194347af7b9c0984e5903557387f79f80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220926,
+            "changeTime": 1536046220926,
+            "contentHash": "9e3035980db44b403145254c133776b371c9fb6c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Abbreviation__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Abbreviation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1536046220870,
+            "changeTime": 1536046220870,
+            "contentHash": "6125892926a19778e39c612c8fa16f3cdb5612f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Asset_Class__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Asset_Class__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 451,
+            "modifiedTime": 1536046220872,
+            "changeTime": 1536046220872,
+            "contentHash": "96c640db9474f0447c9994154f0dd3fd1994db78",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Five_Year_Return__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Five_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1536046220917,
+            "changeTime": 1536046220917,
+            "contentHash": "72e110d251f34ad9cce8ee8bdd2e57384978f6e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\One_Year_Return__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\One_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 388,
+            "modifiedTime": 1536046220919,
+            "changeTime": 1536046220919,
+            "contentHash": "bdf614d607981d94acb8e88b5e647b92b920903a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Rating__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1536046220921,
+            "changeTime": 1536046220921,
+            "contentHash": "8f07ce06c5a0c1449d0dcf09b519a356b4ca9a7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Sector__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Sector__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 603,
+            "modifiedTime": 1536046220923,
+            "changeTime": 1536046220923,
+            "contentHash": "5f9e0b69c5ff000cc9b20053257b3087344da843",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Two_Year_Return__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\Two_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 388,
+            "modifiedTime": 1536046220925,
+            "changeTime": 1536046220925,
+            "contentHash": "be7843618b6e36bd2b5788186c75c526f771dd9c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\YTD_Return__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\fields\\YTD_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 378,
+            "modifiedTime": 1536046220927,
+            "changeTime": 1536046220927,
+            "contentHash": "13fcfc2078610414802ed6ea38fc6d5874c1f566",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\Fund__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\Fund__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2136,
+            "modifiedTime": 1536046220867,
+            "changeTime": 1536046220867,
+            "contentHash": "9508741313ee565b7166164b87d1484a87eda0a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220930,
+            "changeTime": 1536046220930,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Fund__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1536046220930,
+            "changeTime": 1536046220930,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220939,
+            "changeTime": 1536046220939,
+            "contentHash": "b48d4d96bd0f91490cc4e5759619dd65f8c148a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220937,
+            "changeTime": 1536046220937,
+            "contentHash": "f80814692f0231553d9c649872574210d0b98ca6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\fields\\Sector_Id__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\fields\\Sector_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 413,
+            "modifiedTime": 1536046220937,
+            "changeTime": 1536046220937,
+            "contentHash": "ca081c22b012c9294ea21f152988e9793a9cda2e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220940,
+            "changeTime": 1536046220940,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1536046220941,
+            "changeTime": 1536046220941,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\Sector__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\objects\\Sector__c\\Sector__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2136,
+            "modifiedTime": 1536046220933,
+            "changeTime": 1536046220933,
+            "contentHash": "14255e37b3e060c9147e94d492a2765c3469470d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220945,
+            "changeTime": 1536046220945,
+            "contentHash": "8af70444fa64f3c0dd4c5ad0d1cefaa269dad01b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\pages\\DisplayUserInfo.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\pages\\DisplayUserInfo.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 353,
+            "modifiedTime": 1536046220944,
+            "changeTime": 1536046220944,
+            "contentHash": "85aee4cf07bac2a4d6771086a1ffb348cee58dee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\pages\\DisplayUserInfo.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\pages\\DisplayUserInfo.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 298,
+            "modifiedTime": 1536046220945,
+            "changeTime": 1536046220945,
+            "contentHash": "7318011ece5663a9a70002989743f047ef080644",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220956,
+            "changeTime": 1536046220956,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 21953,
+            "modifiedTime": 1536046220948,
+            "changeTime": 1536046220948,
+            "contentHash": "be5f6e14a888487d87ad877b8ea7a361e5dac631",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7075,
+            "modifiedTime": 1536046220951,
+            "changeTime": 1536046220951,
+            "contentHash": "afacf459c02a011961eb1f1c7b00678f5499d1a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7071,
+            "modifiedTime": 1536046220954,
+            "changeTime": 1536046220954,
+            "contentHash": "497e0d725d7f782207d41ceab1641546e2fcd6a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7423,
+            "modifiedTime": 1536046220956,
+            "changeTime": 1536046220956,
+            "contentHash": "72ecaafd6287d6d62c92ddfc3083ee9fa597d91a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\my_sfdx_projec\\SalesforceDEMO",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536046220961,
+            "changeTime": 1536046220961,
+            "contentHash": "f0104de975dc524ccedf07231c03fbca11880937",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
