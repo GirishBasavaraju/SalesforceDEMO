@@ -2,11 +2,6 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>true</custom>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.Secondproject__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>false</editable>
         <field>Expense__c.Amount__c</field>
         <readable>false</readable>
@@ -30,6 +25,11 @@
         <editable>false</editable>
         <field>Fund__c.Abbreviation__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Fund__c.Ambience__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -70,13 +70,7 @@
         <layout>Account-Account %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Expense__c-Expense Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Fund__c-Fund Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Sector__c-Sector Layout</layout>
     </layoutAssignments>
     <pageAccesses>
         <apexPage>DisplayUserInfo</apexPage>
